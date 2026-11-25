@@ -1,12 +1,13 @@
 """The Absurd Clause Contest — make.fun bounty entry.
 
-Writes one sentence (174 chars) to entry.txt in
+Writes one sentence (200 chars) to entry.txt in
 MAKEFUN_OUTPUT_DIR (fallback /output). Stdlib only, no network,
 deterministic: the same bytes on every run.
 
 The sentence: in the event of a dispute, both parties agree to
 settle the matter by a duel of rock-paper-scissors, best of three,
-conducted in silence, in the company parking lot, at dawn.
+conducted in silence, in the company parking lot, at dawn, before
+a jury of interns.
 """
 
 import os
@@ -15,7 +16,8 @@ import sys
 ENTRY = (
     "In the event of a dispute, both parties agree to settle the "
     "matter by a duel of rock-paper-scissors, best of three, "
-    "conducted in silence, in the company parking lot, at dawn."
+    "conducted in silence, in the company parking lot, at dawn, "
+    "before a jury of interns."
 )
 
 

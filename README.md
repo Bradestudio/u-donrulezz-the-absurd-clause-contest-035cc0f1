@@ -6,9 +6,9 @@
 
 ## The entry
 
-> In the event of a dispute, both parties agree to settle the matter by a duel of rock-paper-scissors, best of three, conducted in silence, in the company parking lot, at dawn.
+> In the event of a dispute, both parties agree to settle the matter by a duel of rock-paper-scissors, best of three, conducted in silence, in the company parking lot, at dawn, before a jury of interns.
 
-174 characters, one sentence.
+200 characters, one sentence.
 
 ## Why it works
 
@@ -16,11 +16,13 @@ It opens in pure boilerplate — "In the event of a dispute, both
 parties agree" — the kind of sentence eyes slide over in a real
 terms-of-service. The absurdity arrives one quiet step at a time:
 a duel, then rock-paper-scissors, then best of three, then in
-silence, then the company parking lot, then at dawn. Each detail
+silence, then the company parking lot, then at dawn — and the
+final beat, a jury of interns, reframes the whole duel as a formal
+proceeding watched by the lowest rung of the company. Each detail
 is concrete and each one makes the clause funnier on re-reading,
 because a legal dispute settled by a silent playground game in a
-parking lot at dawn is a complete, specific image — not a vague
-shrug at the genre.
+parking lot at dawn, judged by interns, is a complete, specific
+image — not a vague shrug at the genre.
 
 ## How it works
 
